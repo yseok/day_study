@@ -1,0 +1,30 @@
+﻿#Git CMD 명령어
+
+*git help - git cmd의 명령어 도움말
+
+*git version - 현재 git의 버전을 확인
+
+*git init - 현재 디렉토리에 git저장소 생성
+
+*git status - 현재 git폴더의 상태 확인. add가능한 파일과 commit가능한 파일의 상태를 볼 수 있다.
+
+*mkdir 이름 - 현재폴더에 원하는 이름의 directory를 만든다 
+
+*cd 경로 - 원하는경로로 이동
+*cd .. - 한 단계 상위 폴더로 이동
+
+*pwd - 현재 위치 확인
+
+*ls - 현재 폴더의 목록
+
+*clear - CMD정리
+
+*git add 파일명 - 스테이징 영역에 올라가지 않은 파일을들 추가함.
+
+*git commit과 git commit -m"message"
+ - git commit을 입력하면 스테이징 영역에 있는 파일들을 커밋한다. 이 경우 Commit Message를 입력하는 창으로 이동하며 i를 누르면 insert(끼워넣기)상태가 되어 작성이 가등하게 되고 ESC를 누르면 insert상태를 끝내며 :w는 저장, :q 작성종료,:!q 저장하지않고 종료 등의 작업이 가능하다.
+
++git clone 저장소주소 - 원격저장소를 복제하여 저장소를 생성
+
+*git fetch - 원격저장소의 변경사항 가져와서 원격브랜치를 갱신
+
