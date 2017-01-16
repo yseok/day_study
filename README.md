@@ -11,7 +11,7 @@
 
 - [170111](https://github.com/yseok/day_study/blob/master/summarize/1%EC%A3%BC%EC%B0%A8/170111.md)
 >운영체제, 자원관리, 프로세스, 자료구조, 알고리즘
->> - [ActiveX와 기술적 부채](https://github.com/yseok/day_study/blob/master/work/170111/ActiveX%EC%99%80_%EA%B8%B0%EC%A4%84%EC%A0%81_%EB%B6%80%EC%B1%84.md)
+>> - [ActiveX와 기술적 부채](https://github.com/yseok/day_study/blob/master/work/170111/ActiveX%EC%99%80_%EA%B8%B0%EC%88%A0%EC%A0%81_%EB%B6%80%EC%B1%84.md)
 
 - [170112](https://github.com/yseok/day_study/blob/master/summarize/1%EC%A3%BC%EC%B0%A8/170112.md)
 >데이터베이스, 네트워크, 암호화
