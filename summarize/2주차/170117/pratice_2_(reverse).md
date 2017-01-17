@@ -1,10 +1,10 @@
-	{
+﻿	{
 
 	public static void main(String[] args) {
 		
 		DrawPattern dp = new DrawPattern();
 		
-		dp.showRecTri(5, "A");
+		dp.showReverseTri(5, "A");
 
 	}
 

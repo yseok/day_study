@@ -1,10 +1,10 @@
-{
+﻿{
 
 	public static void main(String[] args) {
 		
 		DrawPattern dp = new showTri();
 		
-		dp.showTriEnt(5, "A");
+		dp.showDia(5, "A");
 
 	}
 
