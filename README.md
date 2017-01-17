@@ -1,4 +1,4 @@
-﻿**UPDATE : 2017.01.16**
+﻿**UPDATE : 2017.01.17**
 
 
 
@@ -24,5 +24,5 @@
 > Java, java실행구조, 작성규치, Data타입, 연산자, 반복문
 
 
- - [170617](https://github.com/yseok/day_study/tree/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice)
+- [170617](https://github.com/yseok/day_study/tree/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice)
 > Pattern Pratice : [1](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_1_(right_triangle).md), [2](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_2_(reverse).md), [3](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_3_(pyramid).md), [4](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_4_(empty_triangle).md), [5](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_5_(empty_triangle2).md), [6](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_6_(diamind).md), [7](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_7_(empty_diamond).md), [8](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170117/pratice/pratice_8_(X_pattern).md)
