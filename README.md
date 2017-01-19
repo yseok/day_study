@@ -1,4 +1,4 @@
-﻿**UPDATE : 2017.01.18**
+﻿**UPDATE : 2017.01.19**
 
 
 
@@ -30,3 +30,6 @@
 - [170118](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/170118.md)
 > Array : [1차원 배열](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/Array/Array_1.md), [2차원 배열](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/Array/Array_2.md), [3차원 배열](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/Array/Array_3.md), [ArrayList](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/Array/Array%20_4_(ArrayList_Collection).md)  
 > String : [Array_String](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/String/Array_5_(Array_String).md), [Quiz1](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/String/Array_6_(String_Quiz_1).md), [Quiz2](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170118/String/Array_7_(Striing_Quiz2).md)
+
+- [170119](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170119/170119.md)
+> [BBS_Pratice](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170119/bbs_pratice.md)
