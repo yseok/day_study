@@ -1,4 +1,4 @@
-﻿**UPDATE : 2017.01.19**
+﻿**UPDATE : 2017.01.20**
 
 
 
@@ -33,3 +33,5 @@
 
 - [170119](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170119/170119.md)
 > [BBS_Pratice](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170119/bbs_pratice.md)
+
+- [170120](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170120/170120.md_
