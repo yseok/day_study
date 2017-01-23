@@ -1,8 +1,11 @@
-﻿**UPDATE : 2017.01.20**
+﻿**UPDATE : 2017.01.23**
 
 
 
 #INDEX
+
+
+##Week 1
 
 - [170110](https://github.com/yseok/day_study/blob/master/summarize/1%EC%A3%BC%EC%B0%A8/170110.md)
 > Git CMD, 컴퓨터의 역사/구조, 데이터 연산자
@@ -20,6 +23,7 @@
 - [170113](https://github.com/yseok/day_study/blob/master/summarize/1%EC%A3%BC%EC%B0%A8/170113.md)
 
 
+##Week 2
 - [170116](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170116/170116.md)
 > Java, java실행구조, 작성규치, Data타입, 연산자, 반복문
 
@@ -35,3 +39,8 @@
 > [BBS_Pratice](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170119/bbs_pratice.md)
 
 - [170120](https://github.com/yseok/day_study/blob/master/summarize/2%EC%A3%BC%EC%B0%A8/170120/170120.md)
+
+
+##Week 3
+
+- [170123](https://github.com/yseok/day_study/blob/master/summarize/3%EC%A3%BC%EC%B0%A8/170123/170123.md)
