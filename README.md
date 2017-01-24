@@ -1,4 +1,4 @@
-﻿**UPDATE : 2017.01.23**
+﻿**UPDATE : 2017.01.24**
 
 
 
@@ -44,3 +44,6 @@
 ##Week 3
 
 - [170123](https://github.com/yseok/day_study/blob/master/summarize/3%EC%A3%BC%EC%B0%A8/170123/170123.md)
+
+- [170124](https://github.com/yseok/day_study/blob/master/summarize/3%EC%A3%BC%EC%B0%A8/170124/170124.md)
+> [Calculator Pratice](https://github.com/yseok/Layout_Widget_Calculator.git)
