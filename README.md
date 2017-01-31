@@ -47,3 +47,7 @@
 
 - [170124](https://github.com/yseok/day_study/blob/master/summarize/3%EC%A3%BC%EC%B0%A8/170124/170124.md)
 > [Calculator Pratice](https://github.com/yseok/Layout_Widget_Calculator.git)
+
+##Week 4
+
+- [170131](https://github.com/yseok/day_study/blob/master/summarize/4%EC%A3%BC%EC%B0%A8/170131/170131.md)
